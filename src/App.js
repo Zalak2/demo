@@ -11,12 +11,13 @@ import Forms from "./Components/Forms"
 function App() {
   return (
     <div>
-      {/* <UseEffect/>
+      <UseEffect/>
       <DigitalClock /> 
       <Usecontext1/>
       <Usereducer/> 
-  <RandomJoke/>*/}
+  <RandomJoke/>
   <Forms/>
+  
 
     </div>
   );
